@@ -9,10 +9,10 @@
 
 Для просмотра Вашего профиля воспользуйтесь кнопкой на панели управления в правой верхней части страницы. Вы также можете поменять язык отображения текста и выйти из системы (рисунок 1).
  
- Рисунок 1. Панель управления.
+Рисунок 1. Панель управления.
  
 .. image:: Pictures/heedbook_41.png
-   :width: 200 px
+   :width: 300 px
    :alt: Heedbook
 
 .. _session-label:
@@ -45,7 +45,7 @@
  
 Рисунок 3. Выбор микрофона.
 
-.. image:: Pictures/heedbook_45.png
+.. image:: Pictures/heedbook_45.PNG
    :width: 400 px
    :alt: Heedbook
  
@@ -69,7 +69,7 @@
 Рисунок 5. Профиль.
 
 .. image:: Pictures/heedbook_44.png
-   :width: 600 px
+   :width: 800 px
    :alt: Heedbook
 
 PUSH-уведомления
