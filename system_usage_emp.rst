@@ -12,7 +12,7 @@
 Рисунок 1. Панель управления.
  
 .. image:: Pictures/heedbook_41.png
-   :width: 300 px
+   :scale: 70%
    :alt: Heedbook
 
 .. _session-label:
@@ -25,7 +25,7 @@
 Рисунок 2. Выбор оборудования.
 
 .. image:: Pictures/heedbook_42.png
-   :width: 400 px
+   :scale: 70%
    :alt: Heedbook
 
 .. important:: Убедитесь, что для веб-страницы разрешено использование камеры и микрофона. 
@@ -46,7 +46,7 @@
 Рисунок 3. Выбор микрофона.
 
 .. image:: Pictures/heedbook_45.PNG
-   :width: 400 px
+   :scale: 70%
    :alt: Heedbook
  
 Для начала передачи видео и аудио потока нажмите кнопку Start. Вы можете свернуть браузер и продолжать работу с компьютером, система работает в фоновом режиме. 
@@ -56,7 +56,7 @@
 Рисунок 4. Остановка сессии.
 
 .. image:: Pictures/heedbook_43.png
-   :width: 400 px
+   :scale: 70%
    :alt: Heedbook
 
 Информация о профиле и смена пароля
@@ -69,7 +69,7 @@
 Рисунок 5. Профиль.
 
 .. image:: Pictures/heedbook_44.png
-   :width: 800 px
+   :scale: 70%
    :alt: Heedbook
 
 PUSH-уведомления
