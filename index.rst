@@ -13,5 +13,6 @@ Heedbook – это сервис оценки удовлетворенности
    getting_started.rst
    system_usage_adm.rst
    system_usage_emp.rst
+   export_api.rst
    contacts.rst
   
