@@ -44,30 +44,30 @@ Query-параметры:
  
 .. code-block:: JSON
 
-[
-   {
-       "sessionId": "b140448e-8440-4305-e0d3-08d60449ab68",
-       "userId": "7f46106c-e014-444d-9982-65cd3f502d71",
-       "firstName": "Иван",
-       "lastName": "Иванов",
-       "middleName": "Иванович",
-       "begOffice": "Офис 1",
-       "endOffice": "Офис 1",
-       "begTime": "2018-08-17T13:59:37.4309366",
-       "endTime": "2018-08-17T14:01:06.5408691"
-   },
-   {
-       "sessionId": "140dde79-785c-4383-e0d4-08d60449ab68",
-       "userId": "7f46106c-e014-444d-9982-65cd3f502d71",
-       "firstName": "Иван",
-       "lastName": "Иванов",
-       "middleName": "Иванович",
-       "begOffice": "Офис 1",
-       "endOffice": "Офис 1",
-       "begTime": "2018-08-17T14:23:44.3180886",
-       "endTime": "2018-08-17T14:24:13.04697"
-   }
-]
+ [
+    {
+        "sessionId": "b140448e-8440-4305-e0d3-08d60449ab68",
+        "userId": "7f46106c-e014-444d-9982-65cd3f502d71",
+        "firstName": "Иван",
+        "lastName": "Иванов",
+        "middleName": "Иванович",
+        "begOffice": "Офис 1",
+        "endOffice": "Офис 1",
+        "begTime": "2018-08-17T13:59:37.4309366",
+        "endTime": "2018-08-17T14:01:06.5408691"
+    },
+    {
+        "sessionId": "140dde79-785c-4383-e0d4-08d60449ab68",
+        "userId": "7f46106c-e014-444d-9982-65cd3f502d71",
+        "firstName": "Иван",
+        "lastName": "Иванов",
+        "middleName": "Иванович",
+        "begOffice": "Офис 1",
+        "endOffice": "Офис 1",
+        "begTime": "2018-08-17T14:23:44.3180886",
+        "endTime": "2018-08-17T14:24:13.04697"
+    }
+ ]
 
 
 1) "lastName": Фамилия
