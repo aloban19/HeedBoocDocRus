@@ -117,7 +117,7 @@ Query-параметры:
         "lastName": "Иванов",
         "middleName": "Иванович",
         "office": "1036",
-        "position": "Заправщик"
+        "position": "Заправщик",
         "creationDate": "2018-03-13T00:00:00"
     },
     {
